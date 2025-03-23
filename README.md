@@ -1,6 +1,6 @@
 # 🚀 My First Next.js Project 🎉
 
-> This is my first Next.js project, where I created a simple webpage using the React-based framework, Next.js ⚛. This project is deployed on Vercel 🌍 for easy access🎨
+> CodeQueen's first Next.js website! 🏆 This is where my journey with Next.js ⚛️ began I built a simple yet powerful webpage, bringing React and Next.js together This project is deployed on Vercel 🌍 for easy access and smooth performance🎨
 
 🔗 Live Demo: https://simple-webpage-zeta.vercel.app/
 
